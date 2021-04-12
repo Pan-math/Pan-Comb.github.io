@@ -1,4 +1,4 @@
-## Welcome to My Pages
+## Accueil
 
 You can use the [editor on GitHub](https://github.com/Pan-math/Pan-Comb.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
